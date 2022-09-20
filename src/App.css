@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+#ResultsPerPage {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+button {
+  font-size: 20px;
+}
+
+input {
+  font-size: 20px;
+}
+
+p {
+  display: inline;
+  margin: 10px;
+  font-size: 20px;
+}
