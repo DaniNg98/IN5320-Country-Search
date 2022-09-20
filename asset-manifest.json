@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IN5320-country-search/static/css/main.87b9a52d.css",
+    "main.js": "/IN5320-country-search/static/js/main.8e4d6862.js",
+    "index.html": "/IN5320-country-search/index.html",
+    "main.87b9a52d.css.map": "/IN5320-country-search/static/css/main.87b9a52d.css.map",
+    "main.8e4d6862.js.map": "/IN5320-country-search/static/js/main.8e4d6862.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b9a52d.css",
+    "static/js/main.8e4d6862.js"
+  ]
+}
